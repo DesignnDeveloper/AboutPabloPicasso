@@ -1,8 +1,6 @@
 "# PICASSO BEST" 
 # About Pablo Picasso App
 
-### Assignment 1 WDGD303
-
 This is a multiple screen React Native App that tells you the story about one of the best abstract artists of all time.
 
 
