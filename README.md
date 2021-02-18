@@ -1,4 +1,4 @@
-"# WDGD303-ASSIGNMENT1" 
+"# PICASSO BEST" 
 # About Pablo Picasso App
 
 ### Assignment 1 WDGD303
